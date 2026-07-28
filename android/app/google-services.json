@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519094364706",
+    "project_id": "kaskita-f65a6",
+    "storage_bucket": "kaskita-f65a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519094364706:android:de6b31b1cc03bab6d7b87b",
+        "android_client_info": {
+          "package_name": "com.example.kaskita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519094364706-3g0qj92g3mltckj91fpdjs4lgs6rd1eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaskita",
+            "certificate_hash": "7d7efb2cd1d12f8590ee49571f11f7967ee8f1eb"
+          }
+        },
+        {
+          "client_id": "519094364706-kdi0ct21gdol6hje2po68l2rk0vk77i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAig61A3QZWE4wdhbKIQ_Kh5wJTQUq20C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519094364706-kdi0ct21gdol6hje2po68l2rk0vk77i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
