@@ -1,0 +1,61 @@
+name: kaskita
+description: Aplikasi manajemen kas kelas yang transparan dan mudah digunakan.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  intl: ^0.19.0
+  fl_chart: ^0.68.0
+  uuid: ^4.4.0
+  google_fonts: ^6.2.1
+  flutter_slidable: ^3.1.0
+  gap: ^3.0.1
+  pdf: ^3.12.0
+  printing: ^5.14.3
+  image_picker: ^1.2.2
+  curved_navigation_bar: ^1.0.6
+  flutter_local_notifications: ^21.0.0
+  timezone: ^0.11.0
+  excel: ^4.0.3
+  path_provider: ^2.1.2
+  share_plus: ^7.2.2
+  url_launcher: ^6.2.6
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  cloud_firestore: ^5.0.1
+  local_auth: ^2.2.1
+  google_sign_in: ^6.2.1
+  font_awesome_flutter: ^10.7.0
+  flutter_spinkit: 5.2.2
+  qr_flutter: ^4.1.0
+  google_mlkit_text_recognition: ^0.14.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  # Tambahkan package pengubah icon di sini
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    # Mengambil semua file di dalam folder assets/images/
+    - assets/images/
+
+# Konfigurasi Icon Aplikasi
+flutter_launcher_icons:
+  android: true
+  ios: false
+  # Pastikan file 007.png ada di dalam folder assets/images/
+  image_path: "assets/images/007.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/007.png"
