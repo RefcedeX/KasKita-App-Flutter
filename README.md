@@ -178,7 +178,3 @@ Beberapa hal yang sebaiknya dibereskan sebelum repo ini benar-benar dipublikasik
 - **Belum ada automated test** — folder `test/` masih kosong.
 
 ---
-
-## 📝 Lisensi
-
-Belum ada file lisensi di project ini. Tambahkan file `LICENSE` (misalnya MIT) kalau ingin repo ini bisa digunakan/dimodifikasi secara terbuka oleh orang lain.
